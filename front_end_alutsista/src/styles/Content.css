@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Content {
+  padding-top: 20px;
+}
+
+.Content {
+  padding-top: 20px;
+}
+
+.senjata {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.logSenjata {
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.buttonContent {
+  position: relative;
+  top: -110px;
+}
+
+.buttonContent a {
+  text-decoration: none;
+  padding: 8px 50px;
+  border-radius: 5px;
+  font-size: 18px;
+  margin: 0px 5px;
+}
+
+.buttonContent .login {
+  background-color: black;
+  color: white;
+  transition: 0.5s ease;
+}
+
+.buttonContent .login:hover {
+  background-color: skyblue;
+  color: black;
+}
+
+.senjata p {
+  position: relative;
+  top: -80px;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}

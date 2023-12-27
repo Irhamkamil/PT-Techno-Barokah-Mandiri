@@ -1,0 +1,26 @@
+* {
+  /* border-top: 10px solid #1098ad; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Logistics {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+.Logistics-header h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.isiLogistics {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

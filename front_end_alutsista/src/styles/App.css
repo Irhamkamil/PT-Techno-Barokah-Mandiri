@@ -1,0 +1,32 @@
+* {
+  /* border-top: 10px solid #1098ad; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  /* text-align: center; */
+}
+
+.App-header {
+  /* background-color: #282c34; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: skyblue;
+}
+
+.heading_app1 {
+  font-size: 50px;
+  color: black;
+}
+
+#heading_app1 {
+  font-size: 25px;
+  color: black;
+  position: relative;
+  top: 20px;
+}
