@@ -1,0 +1,102 @@
+{
+  "tni_ad": [
+    {
+      "senjata": [
+        {
+          "id": 1,
+          "name": "Rifle SS2-V5 A1",
+          "image": 50000,
+          "calibre": "5,56 x 45 mm",
+          "length": "Butt extended : 755 mm Butt folded : 528 mm",
+          "barrel": "Length : 255 mm Rifling : 6 Grooves, RH 177,8 mm (7') twist",
+          "weight": "With empty magazine : 3,35 kg With full magazine (30 rounds) : 3,71 kg",
+          "sight": "Mechanical sight",
+          "ammunition": "Ordinary ball cartridge MU5-Tj or SS 109 - Blank cartridge MU5-H, Cartridge for grenade launching",
+          "effective_range": "200m"
+        }
+      ]
+    },
+    {
+      "kendaraan": [
+        {
+          "id": 1,
+          "name": "Komodo 4x4 Missile Launcher",
+          "image": 50000,
+          "configuration": "4x4",
+          "length": "6.3 m",
+          "width": "2.3 m",
+          "height": "2.4 m",
+          "speed": "80 km/h on highway 30 km/h on off road",
+          "special_equipment": "Missile Launcher"
+        }
+      ]
+    }
+  ],
+  "tni_au": [
+    {
+      "senjata": [
+        {
+          "id": 1,
+          "name": "Rifle SS2-V1 Kal. 5.56 mm",
+          "image": 50000,
+          "calibre": "5.56 x 45 mm",
+          "length": "Butt extended : 985 mm Butt folded : 742 mm",
+          "barrel": "Length : 460 mm Rifling : 6 grooves, RH 177.8 mm(7') twist",
+          "weight": "With empty magazine : 4.3 kg",
+          "sight": "Optical sight (Trijicon)",
+          "ammunition": "Ordinary ball cartridge MU5-Tj or SS 109, Blank cartridge MU5-H",
+          "effective_range": "400 m"
+        }
+      ]
+    },
+    {
+      "kendaraan": [
+        {
+          "id": 1,
+          "name": "F-16 Fighting Falcon",
+          "image": 50000,
+          "length": "49 ft 5 in",
+          "weight": "kosong: 18,900 lb, isi: 26,500 lb",
+          "height": "16 ft",
+          "speed": "-",
+          "machine": "1 x F110-GE-100 afterburning turbofan",
+          "special_equipment": "4x LAU-61/LAU-68 rocket pods (each with 19x /7x Hydra 70 mm rockets, respectively)"
+        }
+      ]
+    }
+  ],
+  "tni_al": [
+    {
+      "senjata": [
+        {
+          "id": 1,
+          "name": "Pistol MAG4",
+          "image": 50000,
+          "calibre": "9x19 mm Parabellum",
+          "length": "180 mm",
+          "barrel": "-",
+          "weight": "0.9 kg",
+          "sight": "-",
+          "ammunition": "-",
+          "effective_range": "15m"
+        }
+      ]
+    },
+    {
+      "kendaraan": [
+        {
+          "id": 1,
+          "name": "KRI Torani",
+          "image": 50000,
+          "configuration": "-",
+          "length": "45.5 meter",
+          "width": "7.9 meter",
+          "height": "15 meter",
+          "speed": "maksimal: 24 knot",
+          "machine": "Dua mesin diesel MTU, masing-masing 2480 HP",
+          "special_equipment": "Meriam otomatis kaliber 30 mm (kanon Marlin WS) di haluan, Meriam kaliber 12,7 mm di buritan"
+        }
+      ]
+    }
+  ]
+}

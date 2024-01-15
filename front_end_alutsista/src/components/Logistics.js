@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/Logistics.css";
-import Contents from "../components/Contents";
+import Contentsenjata from "./Contentsenjata";
+import Contentkendaraan from "./Contentkendaraan";
 
 function Logistics(props) {
   return (
@@ -9,8 +10,8 @@ function Logistics(props) {
         <h1>{props.logHeading()}</h1>
       </header>
       <div className="isiLogistics">
-        <Contents />
-        <Contents />
+        <Contentsenjata />
+        <Contentkendaraan />
       </div>
     </div>
   );

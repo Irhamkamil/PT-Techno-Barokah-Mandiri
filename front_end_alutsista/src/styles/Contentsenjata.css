@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.content {
+  padding-top: 20px;
+}
+
+.senjata {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.logSenjata {
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.buttonSenjata {
+  position: relative;
+  top: -110px;
+}
+
+.buttonSenjata a {
+  text-decoration: none;
+  padding: 8px 50px;
+  border-radius: 5px;
+  font-size: 18px;
+  margin: 0px 5px;
+}
+
+.buttonSenjata .loginSenjata {
+  background-color: black;
+  color: white;
+  transition: 0.5s ease;
+}
+
+.buttonSenjata .loginSenjata:hover {
+  background-color: skyblue;
+}
+
+.senjata p {
+  position: relative;
+  top: -80px;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}
